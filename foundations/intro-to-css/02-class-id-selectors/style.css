@@ -1,8 +1,19 @@
-.first {background-color: rgb(232, 129, 89); font-family: verdana, dejavu sans , sans-serif;
+.first {
+    background-color: rgb(232, 129, 89); 
+    font-family: verdana, dejavu sans , sans-serif;
 }
-.second {font-size: 24px;
+
+.second {
+    font-size: 24px;
 }
-#one {font-size: 36px; color: rgb(18, 18, 215);
+
+#one {
+    font-size: 36px; 
+    color: rgb(18, 18, 215);
 }
-#another {background-color: rgb(69, 156, 69); font-size: 24px; font-weight: bold;
+
+#another {
+    background-color: rgb(69, 156, 69); 
+    font-size: 24px; 
+    font-weight: bold;
 }
